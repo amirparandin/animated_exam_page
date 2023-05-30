@@ -1,4 +1,4 @@
-# Flutter Exam Page
+# Animated Exam Page
 
 This project is a mobile application screen with flutter that shows an exam page with beautiful and complex animations. The screen consists of a question card, a timer, a progress bar, and four answer options. The user can select an answer and see the feedback with animation. The screen also adapts to different device sizes and orientations.
 
