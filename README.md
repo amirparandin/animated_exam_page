@@ -11,6 +11,7 @@ This project is a mobile application screen with flutter that shows an exam page
 
 ## Demo
 
+Wait for the demo to load!
 ![using a color picker](XRecorder_Edited_30052023_120956.gif)
 
 
