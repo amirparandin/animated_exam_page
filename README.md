@@ -1,16 +1,28 @@
-# animated_exam_page
+# Flutter Exam Page
 
-A new Flutter project.
+This project is a mobile application screen with flutter that shows an exam page with beautiful and complex animations. The screen consists of a question card, a timer, a progress bar, and four answer options. The user can select an answer and see the feedback with animation. The screen also adapts to different device sizes and orientations.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Custom animations using flutter's animation controller, tween, and curve classes
+- Responsive design using flutter_screenutil library
+- Custom fonts using google_fonts library
+- Custom widgets for question card, timer, progress bar, and answer options
+- State management using provider library
 
-A few resources to get you started if this is your first Flutter project:
+## Demo
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Demo gif](demo.gif)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## How to run
+
+To run this project, you need to have flutter installed on your machine. Then, follow these steps:
+
+- Clone this repository to your local machine
+- Open the project folder in your preferred IDE (e.g. VS Code, Android Studio)
+- Run `flutter pub get` to install the dependencies
+- Run `flutter run` to launch the app on your connected device or emulator
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
