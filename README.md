@@ -8,11 +8,11 @@ This project is a mobile application screen with flutter that shows an exam page
 - Responsive design using flutter_screenutil library
 - Custom fonts using google_fonts library
 - Custom widgets for question card, timer, progress bar, and answer options
-- State management using provider library
 
 ## Demo
 
 ![using a color picker](XRecorder_Edited_30052023_120956.gif)
+
 
 
 
@@ -25,6 +25,3 @@ To run this project, you need to have flutter installed on your machine. Then, f
 - Run `flutter pub get` to install the dependencies
 - Run `flutter run` to launch the app on your connected device or emulator
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
